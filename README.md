@@ -9,7 +9,9 @@ This is basically a guide on how to make a perfect society with technology.
 - [Section 2: Let's Get Into Specifics](#section-2-lets-get-into-specifics)
   - [Section 2.1: Energy](#section-21-energy)
   - [Section 2.2: Materials](#section-22-materials)
-    - [Section 2.2.1: Farming](#section-221-farming)
+    - [Section 2.2.1: Food](#section-221-food)
+    - [Section 2.2.2: Trees](#section-222-trees)
+    - [Section 2.2.3: Asteroid Mining](#section-223-asteroid-mining)
   - [Section 2.3: Manufacturing](#section-23-manufacturing)
   - [Section 2.4: Services](#section-24-services)
 
@@ -35,6 +37,8 @@ Now I know that section 1.1 sounds pretty far fetched, that is because it is. Th
 # Section 2: Let's Get Into Specifics
 Alright, here is where the meat of the guide begins. We will talk about a lot of things, so let's begin with some basics.
 
+**Note:** when I mention "robots", I think it would be best to keep in mind that most of the time I am not referring to humanoid robots, but rather a large amalgam of parts that complete one task. For examle, a robot that plants seeds in the ground will not be some little guy with arms and legs, but will be a machine that goes along a track, using a linear arm to place the seeds in the ground.
+
 ## Section 2.1: Energy
 We will begin with energy, without which nothing can be done. There are many sources of energy, but none are as dense and plentiful as [thorium](https://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx#:~:text=Nature%20and%20sources%20of%20thorium,times%20more%20abundant%20than%20uranium.). Certainly hydrogen, solar, and wind are renewable, but they are not as energy rich as thorium. We must move away from resources such as coal, natural gas, and others that are inefficient and harmful to the earth. Let's go over a few quick points about thorium.
 
@@ -48,10 +52,28 @@ We will begin with energy, without which nothing can be done. There are many sou
 These are six of the benefits of thorium. Basically, if you can get it working well you will be have a safe, clean, practically unlimited energy supply. We need a very strong base so that we can develop the rest of our society without worry about energy.
 
 ## Section 2.2: Materials
-### Section 2.2.1: Farming
-I don't want to say this, but I think that factory farming should be put to an end. I am not exaclty very knowledgeable on this topic, so this is somewhere that the wisdom of the crowd could come in. Basically, from what I have heard it is not a good life for the animals, we are getting pretty good at making fake meat, and farming animals takes a lot of space. Alright, with that out of the way, let's talk about my alternative.
+### Section 2.2.1: Food
+I don't want to say this because I really like meat, but I think that factory farming of animals should be put to an end. I am not exaclty very knowledgeable on this topic, so this is somewhere that the wisdom of the crowd could come in. Basically, from what I have heard it is not a good life for the animals, we are getting pretty good at making fake meat, and farming animals takes a lot of space. Alright, with that out of the way, let's talk about my alternative:
+
 **Farming Skyscraper/Groundchamber**
-Alright, so this is pretty much the same thing people do in cities. When expanding outward moves you too far from the epicenter of your city, you build *up* (or down?)! Utilizing the third dimension, one square mile of farmland can be transformed into one *hundred* square miles of farmland. These agricultural structures will serve as large scale greenhouses, featuring irrigation, climate, and lighting systems. I am no farmer, but I am guessing that we can create dirt (I think I saw some article on creating dirt from scratch) and grow stuff like corn, beans, carrots, potatoes, and other types of food that grows in the ground.
+
+Alright, so this is pretty much the same thing people do in cities. When expanding outward moves you too far from the epicenter of your city, you build *up* (or down?)! Utilizing the third dimension, one square mile of farmland can be transformed into one *hundred* square miles of farmland. These agricultural structures will serve as large scale greenhouses, featuring irrigation, climate, and lighting systems. 
+
+I am no farmer, but I am guessing that we can create dirt (I think I saw some article on creating dirt from scratch) and grow stuff like corn, beans, carrots, potatoes, and other types of food that grows in the ground. The regularity introduced in such a controlled enviroment will simplify the harvesting and planting process. There would probably be a general rail system above the crops, and depending on the type of crop special attachments or instructions could be added to harvest the crop.
+
+For example, one would not harvest corn in the same way that they harvest potatoes. Corn grows up on stalks and potatoes grow in the ground.
+
+### Section 2.2.2: Trees
+This section is probably going to be a bit short, seeing as we mainly use trees as a building material and I would like to find a more abundant alternative that does not require as much processing. We would still farm trees for their fruit, and we would do it in a similar way as described in section 2.2.1. The buildings would be multi-storied, but the levels would be taller to allow room for the trees to grow upward.
+
+### Section 2.2.3: Asteroid Mining
+This section is going to sound like it comes straight from a sci-fi novel from the 20th century, but really, it comes from a [*19th* century story](https://en.wikipedia.org/wiki/Asteroid_mining#In_fiction)! Alright, regardless, it is possible with technology and research. We got a few guys on the moon, how hard could some asteroids be? They might be pretty hard to get to. The basic idea of asteroid mining is:
+
+1. Get on asteroid
+2. Take stuff from asteroid
+3. Bring stuff back to humans
+
+This is an extreme oversimplification of the process, with each step probably being composed of tens if not hundreds of steps
 
 ## Section 2.3: Manufacturing
 

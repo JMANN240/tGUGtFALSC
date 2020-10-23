@@ -13,7 +13,20 @@ This is basically a guide on how to make a perfect society with technology.
     - [Section 2.2.2: Trees](#section-222-trees)
     - [Section 2.2.3: Asteroid Mining](#section-223-asteroid-mining)
   - [Section 2.3: Manufacturing](#section-23-manufacturing)
+    - [Section 2.3.1: Housing](#section-231-housing)
+      - [Section 2.3.1.1: Basic House](#section-2311-basic-house)
+      - [Section 2.3.1.2: Geodesic Dome House](#section-2312-geodesic-dome-house)
+      - [Section 2.3.1.3: 3D-Printed Concrete Home](#section-2313-3d-printed-concrete-home)
+    - [Section 2.3.2: Clothes](#section-232-clothes)
+    - [Section 2.3.3: Medicine](#section-233-medicine)
   - [Section 2.4: Services](#section-24-services)
+    - [Section 2.4.1: The Stockpile](#section-241-the-stockpile)
+    - [Section 2.4.2: Healthcare](#section-242-healthcare)
+      - [Section 2.4.2.1: Mental Health](#section-2421-mental-health)
+- [Section 3: Common Whatabouts](#section-3-common-whatabouts)
+  - [Section 3.1: What about crime?](#section-31-what-about-crime)
+  - [Section 3.2: What about religion?](#section-32-what-about-religion)
+  - [Section 3.3: What about war?](#section-33-what-about-war)
 
 # Section 0: Author's Preface
 Hello, I am JT Raber. I am currently working towards a B.Sc. of Computer Science with a concentration in Robotics and Embedded Systems and a minor in Mathematics. For years I have been thinking about a societal structure that can utilize technology to the advantage of the people. I think it would be a good idea to really flesh out the ideas with a Github repository, not only because it is public for everyone to read, but because it is also open for community contributions. The first few words of the title (Grand and Unified) are good indicators of how complicated this guide will be, both to write and to carry out. If you want to contribute to the guide, please feel free to make a revision and submit a request. This guide is supposed to be for the people, it should also be made by the people. With the preface out of the way, let's begin the guide.
@@ -73,8 +86,60 @@ This section is going to sound like it comes straight from a sci-fi novel from t
 2. Take stuff from asteroid
 3. Bring stuff back to humans
 
-This is an extreme oversimplification of the process, with each step probably being composed of tens if not hundreds of steps
+This is an extreme oversimplification of the process, with each step probably being composed of tens if not hundreds of steps. This section will need to be expanded.
 
 ## Section 2.3: Manufacturing
+### Section 2.3.1: Housing
+I think that it is safe to say that people should have the right to a house. I don't mean just some box that barely fulfills basic needs, I mean an actual house that they choose or design themselves or with an architect. Robots will build the houses. There are ridiculously many ways to build a house, so I will just cover a few for now. 
+#### Section 2.3.1.1: Basic House
+This is just like the house most people live in. Wooden framing, drywall walls, tiled or plastered ceilings, etc. This style of house would not be too difficult to create with robots. The foundation would not be difficult to make, we would just need an automatic excavators and cement pourers. I imagine that one could design a specialized robot to automatically create the frames from 2x4 pieces of wood. The pieces of wood would probably come in a uniform pile, and would be fed into the machine where they would be automatically cut to size, rotated, and nailed together. Another machine would probably transport the frames to where they go and assemble them. This machine could be crane-like and use object detection and analysis with a camera to adaptively figure out what to do to put the frames together. 
+
+Exterior finishing could be achieved with a mechanical arm on a rail going around the house. This could be used to add siding, or stones, or really whatever is desired. Interior finishing could be done similarly, but on wheels maybe, for extra versatility. Adding cupboards and cabinets could be done in a similar way, with a wheeled robot lifting them up like a forklift and nailing/screwing them into place on the walls. Snake-like robots could be used to bore holes in the frames for electrical wiring, and to connect the wiring. Plumbing could be done in a similar manner, with snake-like robots. 
+
+The roof would either be put on by the aforementioned crane robot, or by the aforementioned forklift-type robot. The actual roofing would probably be done by the latter of the two, or possibly by an amalgam of them. A crane-type robot with a steady hand with many axes of motion and attachments.
+
+The best design would most likely be a very versatile robot that can do general work while still remaining simple. Humanoid robots are not a good fit due to the complexity of the human figure. A boxier machine would work well, using wheels instead of legs. The wheels should be on extendable rods to allow the robot to be level regardless of terrain. 
+
+#### Section 2.3.1.2: Geodesic Dome House
+This is an interesting one. The house comes in pieces that can be assembled just like building blocks. The pieces are all uniform triangular frustums. I imagine that there would be all kinds of types of these, and that some would be larger than others to accomodate for larger features, such as doors, large windows, etc. These can certainly be built with special hidden aspects to make assembly easier for a robotic arm. Maybe a notch in one of the obfuscated sides could be used as a uniform grabbing point during construction. The way that I see this going is that all of the pieces needed will be at the build site, along with a machanical arm to put the pieces together. The arm would be in the center of where the house will be, building the house around itself. Of course there are a lot of other things that need to be done, like adding stories or rooms. I am not sure how this could be done, but that can be expanded upon later.
+
+#### Section 2.3.1.3: 3D-Printed Concrete Home
+For those who want a more industrial look, you can get a house 3D printed! This has already been done as of the date of writing (10/23/2020). This is certainly the simplest method, one simply sets up the frame of the printer, prepares the concrete, and presses start. For windows and other features, an auxilary robot such as the kind mentioned in section 2.3.1.1 would be best.
+
+### Section 2.3.2: Clothes
+Now I'm no clothes maker, but I bet that it wouldn't be too hard to have a roll of fabric set up to be pulled and cut and sewn together into the shape of a shirt or pants without the intervention of humans. 
+
+### Section 2.3.3: Medicine
+Robot chemist. That's about it. I imagine that we would just have a ton of chemicals and equipment integrated into a machine that can run routines to create any medicine that is needed. I'm being a bit facetious here, but sort of like a [Minecraft auto brewer](https://www.youtube.com/watch?v=LBXbn0AysrU).
+
+There are a few way that we could do this. We could have a centralized medicine machine, or we could have distributed ones. Also, some of the medicine created by these machines would be restricted to only people who need them for treatment, while others would be available to all, like painkillers or cough syrup. Such open access to drugs might make one think that addiction would be likely in a lot of people. This would not be true. 
+
+Addiction is not random, and it can be treated. People who are mentally healthy and in a sound state of mind are natually less likely to turn to drugs for happiness. I don't have empirical evidence to back this up, maybe some community research and sources would be good. I am just going off how I feel and what makes sense. People do drugs to cover up pain or sadness, people without pain or sadness won't need to cover up what they don't have, proper mental health helps people stay happier. See section 2.4.2.1: Mental Health for more on the subject.
 
 ## Section 2.4: Services
+### Section 2.4.1: The Stockpile
+"If there's no money, how do we buy things?" you ask, to which I reply "you don't buy things, you just take what you want from the stockpile!". The stockpile (working name, let me know if you have a better idea of what to call it) is like walmart on **steroids**! Take what you want, there's always more where that came from. We're post-scarcity, baby. Really though, just take what you want.
+
+Now a common rebuttal to this is "what if someone takes all of the food?!" which is kind of silly. When you go to the store right now you may be partially limited in what you buy due to money, but really the reason that you don't take all 153 cobs of corn is not because you can't afford it but because it just isn't really something people do. You don't see Jeff, Mark, or Elon talking about having a metric ton of Reese's Puffs in their pantry. This is not because they are limited financially, but because there is really no point in taking more than what you want/need. 
+
+There is no incentive to resell the items you get, and the reasoning for this is two-fold: first, everyone else will have the same access to the same items at a literal price of $0. And second, what are you gonna resell them for? Money? You mean that weird green paper stuff we used to use to denote value? Yeah, what are you gonna buy with that? Everything is **free**, remember?
+
+We will probably use artificial intelligence to route the needed amount of items to areas. If red shirts are selling really well in one area and not in another, more will be supplied to the higher demand area and less to the other. The items will maybe be driven to the areas with self driving cars, maybe the items will be sent via the trans-continental underground system of transportation. Kind of like the subway, but for things instead of people. This will simplify the shipping process, allowing straighter routes, faster transportation, and no human interference.
+
+### Section 2.4.2: Healthcare
+Everybody gets a doctor, and its name is D.O.C.T.O.R. which stands for **D**epartment **O**f **C**are **T**reatment **O**perator **R**obot. I know it is a meme, but they did surgery on a grape. Robot doctors are more precise than humans will ever be, it is just that simple. You can train an artificial intelligence on literally decades of medical data, and that is exactly what we will do with D.O.C.T.O.R. An AI can detect patterns that would seem invisible to us. I am pretty sure that I remember hearing about IBM Watson being used to do a similar thing, but I am not sure. Some community input here would be great. So we have a robo-doctor diagnosing us and performing surgery on us, what if we need some medicine? See section 2.3.3: Medicine for the answer to that.
+
+#### Section 2.4.2.1: Mental Health
+Another important branch of healthcare is mental healthcare. Mental health is more closely bound to physical health than we thought, and even if it weren't it would still be important. Sadness and trauma are like illnesses that cloud the mind and make life less enjoyable. They lead to poor decisions and reckless behavior, which can put people in danger. Ideally, people would learn as they grow up how to have healthy mental habits. Under this societal structure, that would be strongly enforced. It is good to be happy. Certainly having negative emotions is ok, and everyone has them from one time to another, but the problem with them is right in the name, **negative**. It is not a fault of the person to be sad or feel angry, but rather it is a natural response to stimuli. What is important is how people handle their emotions. If someone is feeling a way they don't want to feel, they should be able to come to a mental health practitioner and work through what they are feeling.
+
+# Section 3: Common Whatabouts
+This section's purpose is to answer some common "What about...?" questions that people might have. The topics range from stuff like recreational drug use to careers and education. If you have a whatabout, please send me a message or something and I will add it to this section.
+
+## Section 3.1: What about crime?
+Crime is not random. People committing crimes, just like all people, are products of their societies. Certain crimes (such as property crimes) would cease due to improved material conditions, others (such as muders) would cease due to increased mental health and education. Show me a criminal, and I will show you a societal shortcoming behind them. A burglar breaks into a home to steal, they were either suffering from a lack of materials or had the anti-virtue of greed hammered into them by a system that praises objects.
+
+## Section 3.2: What about religion?
+People will be allowed to freely practice their beliefs, but if those beliefs infringe on the rights of others the group will be held as accountable as a hate group such as the KKK or the Nazis. Religion does not get a free bigot pass. Be peaceful and accepting of others, or you will not be accepted. I would not be surprised if a lot of religions slowly faded away in this new society as we approached new frontiers of science and people had less of a reason to need a belief. 
+
+## Section 3.3: What about war?
+Every war that has ever been fought has been fought for God for or power. In section 3.2 I explain that I believe that religion will slowly fade. This eliminated the former of the two reasons for war. The latter of the reasons will also be irrelevant, as everyone will have equal and complete power over themselves. Everyone will be satisfied with their standing, not feeling the need for more power, as they already have as much as they want, as much as they could want.

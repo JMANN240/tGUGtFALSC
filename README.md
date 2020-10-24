@@ -23,6 +23,9 @@ This is basically a guide on how to make a perfect society with technology.
     - [Section 2.4.1: The Stockpile](#section-241-the-stockpile)
     - [Section 2.4.2: Healthcare](#section-242-healthcare)
       - [Section 2.4.2.1: Mental Health](#section-2421-mental-health)
+  - [Section 2.5: Justice](#section-25-justice)
+    - [Section 2.5.1: Laws](#section-251-laws)
+    - [Section 2.5.2: Procedures](#section-252-procedures)
 - [Section 3: Common Whatabouts](#section-3-common-whatabouts)
   - [Section 3.1: What about crime?](#section-31-what-about-crime)
   - [Section 3.2: What about religion?](#section-32-what-about-religion)
@@ -30,6 +33,30 @@ This is basically a guide on how to make a perfect society with technology.
 
 # Section 0: Author's Preface
 Hello, I am JT Raber. I am currently working towards a B.Sc. of Computer Science with a concentration in Robotics and Embedded Systems and a minor in Mathematics. For years I have been thinking about a societal structure that can utilize technology to the advantage of the people. I think it would be a good idea to really flesh out the ideas with a Github repository, not only because it is public for everyone to read, but because it is also open for community contributions. The first few words of the title (Grand and Unified) are good indicators of how complicated this guide will be, both to write and to carry out. If you want to contribute to the guide, please feel free to make a revision and submit a request. This guide is supposed to be for the people, it should also be made by the people. With the preface out of the way, let's begin the guide.
+
+**Quick Disclaimer**
+
+Things I am:
+
+- Computer Scientist
+- College Student
+- A Dude
+
+Things I am **not**:
+
+- An Ethicist
+- A Lawyer
+- A Farmer
+- A Nuclear Engineer
+- An Architect
+- A Logistician
+- An Astronaut
+- A Miner
+- A Doctor
+- A Chemist
+- A Psychologist
+- A Sociologist
+- Many Things
 
 # Section 1: Overview
 ## Section 1.1: What is Fully-Automated Luxury Space Communism?
@@ -88,6 +115,8 @@ This section is going to sound like it comes straight from a sci-fi novel from t
 
 This is an extreme oversimplification of the process, with each step probably being composed of tens if not hundreds of steps. This section will need to be expanded.
 
+Maybe instead of using wood to build houses we could switch to a primarily metal or rock based system. This would allow us to refrain from using trees to build houses and use resources taken from asteroids.
+
 ## Section 2.3: Manufacturing
 ### Section 2.3.1: Housing
 I think that it is safe to say that people should have the right to a house. I don't mean just some box that barely fulfills basic needs, I mean an actual house that they choose or design themselves or with an architect. Robots will build the houses. There are ridiculously many ways to build a house, so I will just cover a few for now. 
@@ -132,11 +161,26 @@ Everybody gets a doctor, and its name is D.O.C.T.O.R. which stands for **D**epar
 #### Section 2.4.2.1: Mental Health
 Another important branch of healthcare is mental healthcare. Mental health is more closely bound to physical health than we thought, and even if it weren't it would still be important. Sadness and trauma are like illnesses that cloud the mind and make life less enjoyable. They lead to poor decisions and reckless behavior, which can put people in danger. Ideally, people would learn as they grow up how to have healthy mental habits. Under this societal structure, that would be strongly enforced. It is good to be happy. Certainly having negative emotions is ok, and everyone has them from one time to another, but the problem with them is right in the name, **negative**. It is not a fault of the person to be sad or feel angry, but rather it is a natural response to stimuli. What is important is how people handle their emotions. If someone is feeling a way they don't want to feel, they should be able to come to a mental health practitioner and work through what they are feeling.
 
+## Section 2.5: Justice
+### Section 2.5.1: Laws
+Alright, first of all I think that murder should not be allowed. Killing people is not right. Rape, as well, should not be done. Assault is also bad.
+
+Everyone will have full bodily autonomy by principle. This includes the right to an abortion, if one is wanted. At no point should anyone be forced to undergo a process such as a surgery or pregnancy/childbirth. Outlawing abortion does not stop abortion, it only moves it from safe clinics with proper equipment to motel rooms with coat hangers. 
+
+Theft would not really be much of an issue because anything you have can be found for free at the stockpile. Theft occurs when financial desperation outweighs social norms and morals. Financial desperation will be non-existent in this new state of society, and therefore theft would be much less likely. Nobody will break into your car to steal your radio when there are hundreds of new radios of all kinds at the stockpile. In the rare case that theft does occur, it probably won't be violent. It is hard to say what should be done for non-violent theft, seeing as no true harm has been done. You can always get more at the stockpile. On the other hand, we should incentivise *not* stealing because it is kind of mean and an inconvenience for the victim. This might need some community input to decide on.
+
+There are ridiculously many laws that will need to be made. Since this is just a guide being written by a 20-year-old Computer Scienctist in a dorm room and not some lawyer or ethics professor I will cease this section for now. The big issues are covered for now, more can be added by the community.
+
+### Section 2.5.2: Procedures
+What should be done to people who break laws? They should be rehabilitated and reintegrated into society. I am no expert on this topic, but I believe that people can change. When shown the error of their ways, people can be made to be better. Our jails/prisons would be a lot different than the prisons of our current day. They would be more hospitable and less of a punishment. Maybe we would have a robo-judge who could determine the sentence for individual crimes. 
+
 # Section 3: Common Whatabouts
 This section's purpose is to answer some common "What about...?" questions that people might have. The topics range from stuff like recreational drug use to careers and education. If you have a whatabout, please send me a message or something and I will add it to this section.
 
 ## Section 3.1: What about crime?
 Crime is not random. People committing crimes, just like all people, are products of their societies. Certain crimes (such as property crimes) would cease due to improved material conditions, others (such as murders) would cease due to increased mental health and education. Show me a criminal, and I will show you a societal shortcoming behind them. A burglar breaks into a home to steal, they were either suffering from a lack of materials or had the anti-virtue of greed hammered into them by a system that praises objects.
+
+There may still exist a certain element of passion crimes because human emotion cannot be quelled completely by improved material conditions. Your wife is in bed with another man? Who could blame you for burning up and seeing red, and then seeing the man's body laying lifeless at the side of the bed. Just because it is understandable, does not mean that it is acceptable. Increased mental health awareness might help people control their reactions to emotions as well.
 
 ## Section 3.2: What about religion?
 People will be allowed to freely practice their beliefs, but if those beliefs infringe on the rights of others the group will be held as accountable as a hate group such as the KKK or the Nazis. Religion does not get a free bigot pass. Be peaceful and accepting of others, or you will not be accepted. I would not be surprised if a lot of religions slowly faded away in this new society as we approached new frontiers of science and people had less of a reason to need a belief. 

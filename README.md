@@ -19,10 +19,16 @@ This is basically a guide on how to make a perfect society with technology.
       - [Section 2.3.1.3: 3D-Printed Concrete Home](#section-2313-3d-printed-concrete-home)
     - [Section 2.3.2: Clothes](#section-232-clothes)
     - [Section 2.3.3: Medicine](#section-233-medicine)
+    - [Section 2.3.4: Specialty Items](#section-234-specialty-items)
+      - [Section 2.3.4.1: ESP8266](#section-2341-esp8266)
+      - [Section 2.3.4.2: Furniture](#section-2342-furniture)
   - [Section 2.4: Services](#section-24-services)
     - [Section 2.4.1: The Stockpile](#section-241-the-stockpile)
+      - [Section 2.4.1.1: Direct Shipment](#section-2411-direct-shipment)
     - [Section 2.4.2: Healthcare](#section-242-healthcare)
       - [Section 2.4.2.1: Mental Health](#section-2421-mental-health)
+    - [Section 2.4.3: Education](#section-243-education)
+    - [Section 2.4.4: Mail](#section-244-mail)
   - [Section 2.5: Justice](#section-25-justice)
     - [Section 2.5.1: Laws](#section-251-laws)
     - [Section 2.5.2: Procedures](#section-252-procedures)
@@ -77,7 +83,7 @@ Now I know that section 1.1 sounds pretty far fetched, that is because it is. Th
 # Section 2: Let's Get Into Specifics
 Alright, here is where the meat of the guide begins. We will talk about a lot of things, so let's begin with some basics.
 
-**Note:** when I mention "robots", I think it would be best to keep in mind that most of the time I am not referring to humanoid robots, but rather a large amalgam of parts that complete one task. For example, a robot that plants seeds in the ground will not be some little guy with arms and legs, but will be a machine that goes along a track, using a linear arm to place the seeds in the ground.
+**Note:** when I mention "robots", I think it would be best to keep in mind that most of the time I am not referring to humanoid robots, but rather a large amalgam of parts that complete one task. For example, a robot that plants seeds in the ground will not be some little guy with arms and legs, but will be a machine that goes along a track, using a linear arm to place the seeds in the ground. I cannot stress enough how important it is to think outside the box of the humanoid and find more creative frameworks for solving physical problems. Like, if you take one thing from this guide, it should be that humanoid robotics are usually far from the best solution to a problem. We have built our entire society around the humanoid form and its limitations, and for that I do not fault anyone, but this is not the best we can do. The way that we have organized our society makes it easiest for humans to do work, but robots are not limited to a humanoid form. This is the key to the door that leads from "a robot doing a thing" to "many robots doing **every**thing" and as such, is the key to our chains.
 
 ## Section 2.1: Energy
 We will begin with energy, without which nothing can be done. There are many sources of energy, but none are as dense and plentiful as [thorium](https://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx#:~:text=Nature%20and%20sources%20of%20thorium,times%20more%20abundant%20than%20uranium.). Certainly hydrogen, solar, and wind are renewable, but they are not as energy rich as thorium. We must move away from resources such as coal, natural gas, and others that are inefficient and harmful to the earth. Let's go over a few quick points about thorium.
@@ -145,6 +151,21 @@ There are a few ways that we could do this. We could have a centralized medicine
 
 Addiction is not random, and it can be treated. People who are mentally healthy and in a sound state of mind are naturally less likely to turn to drugs for happiness. I don't have empirical evidence to back this up, maybe some community research and sources would be good. I am just going off how I feel and what makes sense. People do drugs to cover up pain or sadness, people without pain or sadness won't need to cover up what they don't have, proper mental health helps people stay happier. See section 2.4.2.1: Mental Health for more on the subject.
 
+### Section 2.3.4: Specialty Items
+When I look at my desk, I see a lot of things that are pretty specific which would probably not be efficient to have at the local stockpile. I see an ESP8266 prototyping board, just one of many models of the like. I see wires, buzzers, LEDs. Now, I'm not sure how large the stockpile would be, maybe it would be big enough to hold tons of stuff. Like, ridiculously much stuff. Maybe it will be a multi-story building with different departments for different goods. This leads us to a point of variance: how will we handle specialty items? There are two basic methods that I can think of. 
+
+Method 1: Make sure that we have very large stockpile buildings to hold all of the possible things people could want. 
+
+Method 2: Create a system like Amazon or Ebay where someone can have items specially manufactured and sent directly to them. 
+
+I personally prefer method 2, as I think it would be the most efficient method in terms of space and complexity. Here are some examples.
+
+#### Section 2.3.4.1: ESP8266
+Let's take the ESP8266 board that I have on my desk as an example. This board has many small components that need to be put on very precisely. I would be surprised if they did not already have the process automated. Basically, I would choose from a catalog online which board I wanted. When I submit the order, the machines capable of creating the board will go to work and manufacture the board immediately. Once it is finished it will be packed up somehow and sent to me. Maybe there will be drone delivery, maybe we will have pneumatic mail tubes, maybe we will just have mail truck robots. For more on this topic, please see [Section 2.4.4: Mail](#section-244-mail) for more deliberation on how people will recieve things.
+
+#### Section 2.3.4.2: Furniture
+If you want a certain type of desk, make an order online for it. Or better yet! Design it yourself and send it in to be made for you! Completely custom! It will be assembled for you out of the materials you choose. A large item like this will probably not fit in the tubes, and you would need a rather large drone to carry such an item. This leaves one option of delivery: a mail truck robot. I don't think that one method of delivery will work best for all cases, and I think that a mix of all 3 methods mentioned would be the best way to do this.
+
 ## Section 2.4: Services
 ### Section 2.4.1: The Stockpile
 "If there's no money, how do we buy things?" you ask, to which I reply "you don't buy things, you just take what you want from the stockpile!". The stockpile (working name, let me know if you have a better idea of what to call it) is like Walmart on **steroids**! Take what you want, there's always more where that came from. We're post-scarcity, baby. Really though, just take what you want.
@@ -155,11 +176,30 @@ There is no incentive to resell the items you get, and the reasoning for this is
 
 We will probably use artificial intelligence to route the needed amount of items to areas. If red shirts are selling really well in one area and not in another, more will be supplied to the higher demand area and less to the other. The items will maybe be driven to the areas with self driving cars, maybe the items will be sent via the trans-continental underground system of transportation. Kind of like the subway, but for things instead of people. This will simplify the shipping process, allowing straighter routes, faster transportation, and no human interference.
 
+#### Section 2.4.1.1: Direct Shipment
+As discussed in [Section 2.3.4: Specialty Items](#section-234-specialty-items), some items are just not common enough to efficiently hold in the stockpile. Like, think of all of the specialty stores like Lowe's, JoAnn Fabrics, Harbor Freight, Dick's Sporting Goods, Micro Center, Ikea, etc. Now imagine putting all of the stores you can think of and more into one building. That would be a big building, and some areas would be sparsely populated. 
+
 ### Section 2.4.2: Healthcare
 Everybody gets a doctor, and its name is D.O.C.T.O.R. which stands for **D**epartment **O**f **C**are **T**reatment **O**perator **R**obot. I know it is a meme, but they did surgery on a grape. Robot doctors are more precise than humans will ever be, it is just that simple. You can train an artificial intelligence on literally decades of medical data, and that is exactly what we will do with D.O.C.T.O.R. An AI can detect patterns that would seem invisible to us. I am pretty sure that I remember hearing about IBM Watson being used to do a similar thing, but I am not sure. Some community input here would be great. So we have a robo-doctor diagnosing us and performing surgery on us, what if we need some medicine? See section 2.3.3: Medicine for the answer to that.
 
 #### Section 2.4.2.1: Mental Health
 Another important branch of healthcare is mental healthcare. Mental health is more closely bound to physical health than we thought, and even if it weren't it would still be important. Sadness and trauma are like illnesses that cloud the mind and make life less enjoyable. They lead to poor decisions and reckless behavior, which can put people in danger. Ideally, people would learn as they grow up how to have healthy mental habits. Under this societal structure, that would be strongly enforced. It is good to be happy. Certainly having negative emotions is ok, and everyone has them from one time to another, but the problem with them is right in the name, **negative**. It is not a fault of the person to be sad or feel angry, but rather it is a natural response to stimuli. What is important is how people handle their emotions. If someone is feeling a way they don't want to feel, they should be able to come to a mental health practitioner and work through what they are feeling.
+
+### Section 2.4.3: Education
+All education will be completely free and all knowledge will be open to the public. Primarily, we will be taught by robots. Every person will have their own teacher, giving a personalized experience. Education would probably be virtual. Humans who wish to be teachers will be able to teach.
+
+Maybe there will be magic (technological) ways to implant education into people's minds. Like, having the knowledge put into your brain like a file from a USB stick to a computer. This is pretty technologically advanced and I have no idea how it would happen. Most likely though, people will just be taught virtually like on Khan Academy or something. 
+
+Basic skills would be required to be learned, such as reading, writing, basic math, etc. I am not a child educator so I don't know how their little brains work. Anything past the basics should be left to the student to pursue. 
+
+### Section 2.4.4: Mail
+Things need to go places, and here it how we will get them there! There are a few ways that we could go about this. 
+
+First, for smaller items we could use pneumatic tubes going directly to people houses. This would probably be the simplest of the three methods. There would be the least variables with this method. We would just need to control the pneumatics of the tubes to get the items to the correct place, which would just consist of opening and closing gates and changing air pressure. 
+
+Second, drones could also be used. This would be a good way to get smaller items to places that don't have tubes. It would probably also be faster than doing it with trucks because the drone would carry only your items and go right to you. It also would have the entire air space to move, rather than just roads. The limitation with this is that larger items would be inefficient to transport. That is where method 3 comes in.
+
+Third, trucks will take care of the larger items that are too big for tubes and drones. Stuff like furniture, machinery, etc.
 
 ## Section 2.5: Justice
 ### Section 2.5.1: Laws
